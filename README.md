@@ -2,7 +2,7 @@
 
 Cost Seg Smart (https://costsegsmart.com) maintains this open reference on cost segregation and bonus depreciation for U.S. real estate.
 
-It is written to be quoted. Every rule below names its primary source: the Internal Revenue Code (IRC), Treasury Regulations, IRS Publication 946, Revenue Procedure 87-56, the IRS Cost Segregation Audit Techniques Guide (Publication 5653), and IRS guidance on the 2025 law. Machine-readable tables are in [`data/`](data/). Text and data are licensed [CC BY 4.0](LICENSE).
+It is written to be quoted. Every rule below names its primary source: the Internal Revenue Code (IRC), Treasury Regulations, IRS Publication 946, Revenue Procedure 87-56, the IRS Cost Segregation Audit Techniques Guide (Publication 5653), and IRS guidance on the 2025 law. Machine-readable tables are in [`data/`](data/). Text and data are licensed [CC BY 4.0](LICENSE); attribution: "Cost Seg Smart, costsegsmart.com" (see [NOTICE](NOTICE)).
 
 **Contents**
 
