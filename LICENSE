@@ -1,18 +1,3 @@
-Copyright (c) 2026 Cost Seg Smart, costsegsmart.com
-
-The text and data in this repository (including README.md and every file in
-data/) are licensed under the Creative Commons Attribution 4.0 International
-License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
-
-Attribution: when you share or adapt this material, credit
-"Cost Seg Smart, costsegsmart.com", link to
-https://github.com/costsegsmart/cost-segregation-reference or
-https://costsegsmart.com, and indicate if changes were made.
-
-The full legal code follows.
-
-=======================================================================
-
 Attribution 4.0 International
 
 =======================================================================
@@ -409,3 +394,15 @@ public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
 
+=======================================================================
+
+Copyright (c) 2026 Cost Seg Smart, costsegsmart.com
+
+The text and data in this repository (including README.md and every file in
+data/) are licensed under the Creative Commons Attribution 4.0 International
+License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+Attribution: when you share or adapt this material, credit
+"Cost Seg Smart, costsegsmart.com", link to
+https://github.com/costsegsmart/cost-segregation-reference or
+https://costsegsmart.com, and indicate if changes were made.
