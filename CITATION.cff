@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use or quote this reference, please cite it as below."
+title: "Cost Segregation and Bonus Depreciation Reference (U.S. Real Estate)"
+type: dataset
+authors:
+  - name: "Cost Seg Smart"
+    website: "https://costsegsmart.com"
+repository-code: "https://github.com/costsegsmart/cost-segregation-reference"
+url: "https://costsegsmart.com"
+license: CC-BY-4.0
+date-released: "2026-11-16"
+version: "2026.11.16"
+abstract: >-
+  An open reference on cost segregation and bonus depreciation for U.S. real
+  estate: MACRS recovery periods for building components, the bonus
+  depreciation rate by placed-in-service year including the January 19, 2025
+  acquisition-date rule, and Form 3115 look-back studies, each tied to a
+  primary source (IRC §168, IRS Publication 946, Rev. Proc. 87-56, IRS
+  Publication 5653, IRS Notice 2026-11).
+keywords:
+  - cost segregation
+  - bonus depreciation
+  - MACRS
+  - real estate
+  - tax
+  - depreciation
